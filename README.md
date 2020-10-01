@@ -23,6 +23,7 @@ Ensuite, tu peux modifier la fonction pour ajouter les fonctionalités suivantes
 - N'avoir qu'une seule lettre active
 
 Une fois l'exercise terminé:
+- Fork le repo
 - Création d'une branche: `feature/`
-- Création d'une pull request
+- Création d'une pull request sur ton repo
 - Ne pas push sur master
